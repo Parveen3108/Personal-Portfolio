@@ -66,4 +66,4 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
        bg-gradient-to-br from-[#0F172A] via-[#1E1B4B] to-[#312E81]
       text-gray-200
       accent: indigo-400
-      text-white min-h-screen`,children:H.jsxs(kS,{basename:"/Personal-Portfolio",children:[H.jsx(mx,{}),H.jsxs(MS,{children:[H.jsx(Ti,{path:"/",element:H.jsx(WA,{})}),H.jsx(Ti,{path:"/skills",element:H.jsx(t3,{})}),H.jsx(Ti,{path:"/projects",element:H.jsx(IA,{})}),H.jsx(Ti,{path:"/About",element:H.jsx(e3,{})}),H.jsx(Ti,{path:"/contact",element:H.jsx(ix,{})})]})]})})}Nb.createRoot(document.getElementById("root")).render(H.jsx(L.StrictMode,{children:H.jsx(n3,{})}));
+      text-white min-h-screen`,children:H.jsxs(kS,{children:[H.jsx(mx,{}),H.jsxs(MS,{children:[H.jsx(Ti,{path:"/",element:H.jsx(WA,{})}),H.jsx(Ti,{path:"/skills",element:H.jsx(t3,{})}),H.jsx(Ti,{path:"/projects",element:H.jsx(IA,{})}),H.jsx(Ti,{path:"/About",element:H.jsx(e3,{})}),H.jsx(Ti,{path:"/contact",element:H.jsx(ix,{})})]})]})})}Nb.createRoot(document.getElementById("root")).render(H.jsx(L.StrictMode,{children:H.jsx(n3,{})}));
